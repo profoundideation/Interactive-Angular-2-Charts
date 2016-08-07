@@ -1,0 +1,21 @@
+{
+  "name": "interactive-angular-2-charts",
+  "version": "1.0.0",
+  "description": "Interactive Angular 2 Charts with ZingChart",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/profoundideation/Interactive-Angular-2-Charts/"
+  },
+  "keywords": [
+    "Angular2"
+  ],
+  "author": "Daniel Lim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.14.0"
+  }
+}
