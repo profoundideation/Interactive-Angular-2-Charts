@@ -3,3 +3,9 @@ Interactive Angular 2 Charts with ZingChart
 https://scotch.io/tutorials/interactive-angular-2-charts-with-zingchart
 
 Angular 2 RC4.
+
+START A WEB SERVER AND VISIT THE URL!
+
+python -m SimpleHTTPServer
+
+localhost:8000
